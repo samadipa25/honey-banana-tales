@@ -1,4 +1,50 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - post
+    - featured
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: type
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: category
+  type: tag_list
+  default: []
+  label: categories
