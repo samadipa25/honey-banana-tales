@@ -15,5 +15,14 @@
       <description>YAY! Hey!</description>
     </item>
     
+    <item>
+      <title>First Featured</title>
+      <link>https://samadipa25.github.io/honey-banana-tales/first-featured/</link>
+      <pubDate>Sun, 25 Oct 2020 18:30:00 +0000</pubDate>
+      
+      <guid>https://samadipa25.github.io/honey-banana-tales/first-featured/</guid>
+      <description>Testing featured post</description>
+    </item>
+    
   </channel>
 </rss>
