@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Honey Banana Tales"
+theme = "parsa-hugo"
