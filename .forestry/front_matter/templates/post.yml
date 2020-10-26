@@ -49,4 +49,5 @@ fields:
   default: []
   label: categories
 pages:
+- content/first-featured.md
 - content/my-first-post.1.md
