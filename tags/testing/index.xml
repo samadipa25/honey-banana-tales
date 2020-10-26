@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>testing on Honey Banana Tales | Sama&#39;s Cooking Blog</title>
+    <link>https://samadipa25.github.io/honey-banana-tales/tags/testing/</link>
+    <description>Recent content in testing on Honey Banana Tales | Sama&#39;s Cooking Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2020 18:30:00 +0000</lastBuildDate><atom:link href="https://samadipa25.github.io/honey-banana-tales/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Featured</title>
+      <link>https://samadipa25.github.io/honey-banana-tales/first-featured/</link>
+      <pubDate>Sun, 25 Oct 2020 18:30:00 +0000</pubDate>
+      
+      <guid>https://samadipa25.github.io/honey-banana-tales/first-featured/</guid>
+      <description>Testing featured post</description>
+    </item>
+    
+  </channel>
+</rss>
