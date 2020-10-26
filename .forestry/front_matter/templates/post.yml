@@ -48,3 +48,5 @@ fields:
   type: tag_list
   default: []
   label: categories
+pages:
+- content/my-first-post.1.md
