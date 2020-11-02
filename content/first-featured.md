@@ -5,7 +5,7 @@ date = 2020-10-25T18:30:00Z
 description = "Healthy avocado fudge brownies"
 image = "uploads/brownie1.jpg"
 tags = ["testing"]
-title = "First Featured"
+title = "Healthy avocado fudge brownies"
 type = "post"
 
 +++
