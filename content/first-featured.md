@@ -5,7 +5,7 @@ date = 2020-10-25T18:30:00Z
 description = "Healthy avocado fudge brownies"
 image = "uploads/brownie1.jpg"
 tags = ["keto", "brownie", "healthy", "snack", "dessert"]
-title = "Healthy avocado fudge brownies"
+title = "Avocado fudge brownies"
 type = "post"
 
 +++
