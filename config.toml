@@ -1,4 +1,4 @@
-baseurl = "https://samadipa25.github.io/honey-banana-tales"
+baseurl = "https://honeybananatales.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
@@ -11,14 +11,14 @@ weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
+address = ""
+author = "Samadipa Saha"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "samadipa25@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
@@ -30,7 +30,7 @@ search = true
 enable = true
 expire_days = 2
 [params.instafeed]
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+access_token = ""
 enable = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
