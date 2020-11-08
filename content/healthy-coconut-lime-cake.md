@@ -14,6 +14,8 @@ Sugar has been substituted with stevia and honey. I don't like the aftertaste of
 
 The recipe here serves 3-4.
 
+![](uploads/20201107_212347.jpg)
+
 #### Ingredients for frosting
 
 * 1 1/2 tbsp coconut oil
