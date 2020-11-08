@@ -20,7 +20,7 @@ Made from only a few ingredients, this smoothie is super simple to make and can 
 * 1/2 cup coconut water/ ice
 * 2 tsp jaljeera powder (_optional_)
 
-  ![](uploads/00100dportrait_00100_burst20200808190607053_cover.jpg)
+  ![](/uploads/00100dportrait_00100_burst20200808190607053_cover.jpg)
 
 #### Instructions
 
