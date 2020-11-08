@@ -49,6 +49,7 @@ fields:
   default: []
   label: categories
 pages:
+- content/chicken-biryani-one-pot-chicken-and-rice.md
 - content/chocolate-chia-seed-pudding-new-ways.md
 - content/first-featured.md
 - content/my-first-post.1.md
