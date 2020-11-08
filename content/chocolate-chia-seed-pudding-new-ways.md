@@ -1,5 +1,5 @@
 +++
-categories = ["recipes"]
+categories = ["recipe"]
 date = 2020-11-07T05:00:00Z
 description = "Chocolate chia seed pudding - New ways"
 image = "uploads/00000img_00000_burst20200806174155568_cover-1.jpg"
