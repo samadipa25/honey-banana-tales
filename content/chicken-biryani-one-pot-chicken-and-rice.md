@@ -3,21 +3,13 @@ categories = []
 date = 2020-11-07T05:00:00Z
 description = "Chicken Biryani - One pot chicken and rice"
 draft = true
-image = ""
+image = "uploads/biriyani1.jpg"
 tags = ["biriyani", "indian", "healthy", "lunch", "dinner", "chickenrice"]
 title = "Chicken Biryani - One pot chicken and rice"
 type = "post"
 
 +++
-**The honey banana tales**
-
-Chicken Biryani - One pot chicken and rice
-
-![](https://lh3.googleusercontent.com/aGNljpdqvg1TD5-3UBzcEAOwOyxUBT2a_Jur3yR2sjSK5LnnOHhH9oEL4yOLBgqVFym-kPzmtXqvCIckpv88ViPpyMqUlQ5UCdi3k5aShGUE6xlgUd04qdEMtUOmd1oRlOPJYHKx "horizontal line" =624x4)
-
-# ![](https://lh4.googleusercontent.com/PuVN_aDjXQcRhhIjo0Wp0oNaMrgziVi2D4VJIDSQScEtKlASiPeuW8VS2QFiRsZoRmeQ11j30sqGe0ms4LiH1-AO2Q5TJyWZCGs3lhkZyyjzB_Hph1Rbkm6ilJKi0nUrTTNNo_iI =485x608)
-
-# Who doesn’t love a warm, heaping serving of chicken Biryani on a cold sunday afternoon? The extravagant appearance of the dish makes it look like something quite complicated to cook that we often end up ordering it from restaurants. But what if I give you a recipe which is ridiculously simple but extremely delicious. At the same time, this dish containing only wholesome ingredients makes it for an almost healthyish meal. Also it is one of the few “one pot meals” so you also have less utensils to clean.
+Who doesn’t love a warm, heaping serving of chicken Biryani on a cold sunday afternoon? The extravagant appearance of the dish makes it look like something quite complicated to cook that we often end up ordering it from restaurants. But what if I give you a recipe which is ridiculously simple but extremely delicious. At the same time, this dish containing only wholesome ingredients makes it for an almost healthyish meal. Also it is one of the few “one pot meals” so you also have less utensils to clean.
 
 Servings - 4
 
@@ -55,9 +47,7 @@ Rest of dish:
 * 1 red/ yellow onion
 * Minced fresh cilantro - for garnish
 * Minced fresh green onion - for garnish
-* Corn kernels - for garnish
-
-![](https://lh5.googleusercontent.com/57HMn51blsm6kukWM_kb7Aj5rkFUHdcuEgCENDQfM0rvC80LfaY_dRBtHOcDXM_XEmhaU5W6JVR2xsScg9PD6yK4hReIpOPJHxko1Pc4FG2ma9XI9tHVsjhm7m_qKc2f_5005LH1 =513x698)
+* Corn kernels - for garnish![](uploads/biriyani2.jpg)
 
 **Instructions**
 
@@ -74,6 +64,6 @@ Rest of dish:
 11. If you are using a dutch oven, you can now transfer it to the pre-heated oven and let it cook with lid on for 25 minutes. If you are not using a dutch oven, you can either carefully transfer the contents over your stove top pot to a oven safe dish so that the chicken pieces are on top and let it cook for 25 minutes in the oven. After 25 minutes, remove the lid and bake it for another 10 minutes until all the water is absorbed.
 12. If you do not have an oven at home, you can continue cooking on stove top in medium low heat with lid on for 15 minutes. Then remove the lid and cook until all the water is absorbed.
 
-![](https://lh3.googleusercontent.com/XiP8rrXnhjeX_uBa2sA3V7frPh4esK-ZAxegIjvcLTo6QjuV0rkGG_wA49xCoRcbHQO5ZZ4h4PXcDUxXnepSxkV8Ft7qa4NOzjPm9z01A90woaSHj1E-VKDDaxgYCW_tgsoUalBS =546x560)
+    ![](uploads/biriyani3.jpg)
 
 Once done cooking, garnish the biriyani with minced cilantro, sliced green onions and corn kernels or green peas. Serve it hot alongside a bowl of freshly made raita/ spicy yogurt.
