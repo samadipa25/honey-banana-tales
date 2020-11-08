@@ -2,7 +2,6 @@
 categories = ["Recipe"]
 date = 2020-11-07T05:00:00Z
 description = "Healthy coconut lime cake "
-draft = true
 image = "uploads/20201107_212313.jpg"
 tags = ["lime", "coconut", "cake", "healthy", "dessert", "healthy_dessert", "keto", "low_calorie", "gluten_free", "low_carb"]
 title = "Coconut lime healthy cake "
