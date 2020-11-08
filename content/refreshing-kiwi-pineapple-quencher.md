@@ -14,7 +14,7 @@ Made from only a few ingredients, this smoothie is super simple to make and can 
 
 #### Ingredients
 
-* 2 kiwi
+* 2 kiwis
 * 2 cups of frozen pineapple chunks
 * 1.5 cups fresh spinach
 * 1/2 cup coconut water/ ice
