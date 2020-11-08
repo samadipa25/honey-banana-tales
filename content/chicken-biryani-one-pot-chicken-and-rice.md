@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["recipe"]
 date = 2020-11-07T05:00:00Z
 description = "Chicken Biryani - One pot chicken and rice"
 image = "uploads/biriyani1.jpg"
