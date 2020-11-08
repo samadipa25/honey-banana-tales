@@ -4,14 +4,14 @@ category = []
 date = 2020-10-25T18:30:00Z
 description = "Healthy avocado fudge brownies"
 image = "uploads/brownie1.jpg"
-tags = ["testing"]
+tags = []
 title = "Healthy avocado fudge brownies"
 type = "post"
 
 +++
 Who doesn't love brownies? But we often get intimidated by the amount of butter/oil and sugar and with that, hell lot of calories that these store bought treats have that we would rather skip. This brownie made with wholesome ingredients like avocado and honey is sure to be a crowd pleaser as well as satisfy anyone who is looking for options of healthy treats. So without much ado, let me jump straight to the recipe.
 
-## **Ingredients**
+### **_Ingredients_**
 
 * ½ cup mashed banana/ applesauce.
 * 1 large avocado
@@ -24,9 +24,9 @@ Who doesn't love brownies? But we often get intimidated by the amount of butter/
 * ⅓ cup chopped walnut/ almond (garnish on top)
 * ½ cup coconut flour/ ½ cup almond flour
 
-![](https://lh4.googleusercontent.com/KbgzKvjMWSqlwrq1b9QYwFT91K1BtCLjL27jePCbCcm8QeEC2DTW91Zlil8NbF6YpK9Q9twtfxb8QnJQFABdoKQi5wTIA7R9C5yYX4HHUUkEtmca4Nt1Wop5_CoIJsmL5eATNPUQ =561x562)
+  [Download File]( "Download File")![](uploads/brownie2.jpg)
 
-**Instructions**
+### **_Instructions_**
 
 * Preheat oven to 350 degrees F/ 180 degrees celsius
 * In a blender or food processor, blend together the eggs, avocado, banana and honey + cocoa or honey + cocoa + protein powder. I used honey + cocoa + protein powder in this recipe.
@@ -37,4 +37,4 @@ Who doesn't love brownies? But we often get intimidated by the amount of butter/
 * After removing from the oven, cool the brownie on the counter top for 2 hours and then in the refrigerator for another 4 hours.
 * Once the brownie is firm and set, cut it into 9 squares and enjoy.
 
-![](https://lh5.googleusercontent.com/Y-h3yVRxESOwgNkLY4pSrX65cAXwnu8wxyqSR8dnNEVyMeF5kbJxxFG6oFsS-1cQ58tOovQcMmLiPTHcQhN3Vr3IgxFtBmNqF8PfeI9PnZm1aGANaAUoiDHPAJAonZRKEx0yoFjG =567x524)
+![](uploads/brownie3.jpg)
