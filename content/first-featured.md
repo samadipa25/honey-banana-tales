@@ -4,7 +4,7 @@ category = []
 date = 2020-10-25T18:30:00Z
 description = "Healthy avocado fudge brownies"
 image = "uploads/brownie1.jpg"
-tags = []
+tags = ["keto", "brownie", "healthy", "snack", "dessert"]
 title = "Healthy avocado fudge brownies"
 type = "post"
 
@@ -24,7 +24,7 @@ Who doesn't love brownies? But we often get intimidated by the amount of butter/
 * ⅓ cup chopped walnut/ almond (garnish on top)
 * ½ cup coconut flour/ ½ cup almond flour
 
-  [Download File]( "Download File")![](uploads/brownie2.jpg)
+  ![](uploads/brownie2.jpg)
 
 ### **_Instructions_**
 
