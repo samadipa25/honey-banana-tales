@@ -12,6 +12,7 @@ description: Fruit and granola parfait
 image: uploads/00100dportrait_00100_burst20200807114055661_cover-1.jpg
 categories:
 - recipe
+draft: true
 
 ---
 There are days when I am down with a lot of work and my mornings are super rushed, and I literally have neither the time nor energy to cook a healthy breakfast. Grabbing a parfait bowl, a bagel or a donut are my only breakfast options. But ever since I started working on my healthy regime, I realized that most of these foods, specially bagel or donut contain a lot of ingredients like all purpose flour, sugar which have an inflammatory reaction on the body. Even what might seem like an healthy option like a parfait may be loaded with high quantities of added sugar in the yogurt. Moreover there was the obvious wait time when picking up these items, so was I really saving time? Having just a few ingredients at home, I can now whip up my super healthy and delicious parfait in less than 5 minutes.
