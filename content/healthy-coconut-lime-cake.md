@@ -14,8 +14,6 @@ Sugar has been substituted with stevia and honey. I don't like the aftertaste of
 
 The recipe here serves 3-4.
 
-![](uploads/20201107_212347.jpg)
-
 #### Ingredients for frosting
 
 * 1 1/2 tbsp coconut oil
@@ -23,6 +21,8 @@ The recipe here serves 3-4.
 * 4 tbsp lime juice
 * 2-3 tbsp raw unfiltered honey
 * 2 tbsp coconut flour
+
+  ![](/uploads/original_b925fb1b-4854-440a-8bc3-995be7903be8_20201107_212421.jpg)
 
 #### Instructions for frosting
 
@@ -43,7 +43,7 @@ The recipe here serves 3-4.
 * 1 tbsp coconut oil
 * 1 tbsp honey
 
-  ![](uploads/original_b925fb1b-4854-440a-8bc3-995be7903be8_20201107_212421.jpg)
+  ![](/uploads/20201107_212347.jpg)
 
 #### Instructions for the coconut lime cake
 
