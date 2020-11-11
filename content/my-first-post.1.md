@@ -9,7 +9,7 @@ tags:
 - breakfast
 category: []
 description: Fruit and granola parfait
-image: uploads/00100dportrait_00100_burst20200807114055661_cover-1.jpg
+image: "/uploads/00100dportrait_00100_burst20200807114055661_cover-2.jpg"
 categories:
 - recipe
 
