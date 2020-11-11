@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["recipe"]
 date = 2020-11-10T05:00:00Z
 description = "Lemon Blueberry high protein pancakes"
 image = "/uploads/20201110_110145-2.jpg"
