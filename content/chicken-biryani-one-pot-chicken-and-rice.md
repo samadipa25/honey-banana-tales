@@ -2,7 +2,7 @@
 categories = ["recipe"]
 date = 2020-11-07T05:00:00Z
 description = "Chicken Biryani - One pot chicken and rice"
-image = "uploads/biriyani1.jpg"
+image = "/uploads/20201017_143951.jpg"
 tags = ["biriyani", "indian", "healthy", "lunch", "dinner", "chickenrice"]
 title = "One pot Chicken Biryani - Spicy chicken and rice"
 type = "post"
