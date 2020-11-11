@@ -2,7 +2,7 @@
 categories = ["recipe"]
 date = 2020-11-10T05:00:00Z
 description = "Miso Salmon"
-image = "/uploads/original_041c08cb-113c-456b-8a5c-451b9df577d6_20201109_212317.jpg"
+image = "/uploads/original_041c08cb-113c-456b-8a5c-451b9df577d6_20201109_212317-1.jpg"
 tags = ["salmon", "miso", "miso_salmon", "healthy", "fish", "oven_baked"]
 title = "Miso Salmon"
 type = "post"
