@@ -49,7 +49,7 @@ The recipe here makes 12-15 small sized pancakes.
 
 * Beat the eggs well and add in all the wet ingredients and mix thoroughly.
 * In a separate bowl, mix together all the dry ingredients.
-* Stir in the dry mixture little by little into the wet mixture bowl and mix well.
+* Stir in the dry mixture little by little into the wet mixture bowl and mix well. At the end, stir in the blueberries.
 * Add a drizzle of oil into a pan on stove top and pour 1/3rd of the pancake batter onto the pan to make small-sized pancakes.
 
   ![](/uploads/20201110_110105-2.jpg)
