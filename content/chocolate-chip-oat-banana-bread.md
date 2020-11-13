@@ -2,7 +2,7 @@
 categories = ["recipe"]
 date = 2020-11-11T05:00:00Z
 description = "Gluten free chocolate chip healthy oat banana bread"
-image = "/uploads/20201110_212046-3.jpg"
+image = "/uploads/20201111_102654-2.jpg"
 tags = ["banana bread", "healthy", "breakfast", "oat recipe", "oatmeal banana bread", "high protein"]
 title = "Chocolate chip oat banana bread"
 type = "post"
@@ -28,7 +28,7 @@ This banana bread contains no sugar or butter and is made only from wholesome in
 * 1/3 cup dark/ semi-sweet chocolate chips
 * few sliced almonds for topping
 
-  ![](/uploads/20201110_210829-3.jpg)
+  ![](/uploads/20201111_101335-3.jpg)
 
 #### Instructions
 
