@@ -4,7 +4,7 @@ date = 2020-11-13T05:00:00Z
 description = "Mango srikhand"
 image = "/uploads/20201111_213508-2.jpg"
 tags = ["mango", "mango srikhand", "yogurt", "dessert", "healthy", "indian"]
-title = "Mango srikhand - Indian mango yogurt"
+title = "Mango srikhand - Indianstyle yogurt"
 type = "post"
 
 +++
