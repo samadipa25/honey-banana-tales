@@ -4,7 +4,7 @@ date = 2020-11-13T05:00:00Z
 description = "Indian Chickpea/ Garbanzo beans curry"
 image = "/uploads/20201112_195255-3.jpg"
 tags = ["chole", "chana masala", "chickpea", "chickpea curry", "indian", "lunch", "dinner", "vegan", "vegetarian"]
-title = "Chole Masala (Indian Chickpea/ Garbanzo beans curry)"
+title = "Chole Masala (Indian Chickpea curry)"
 type = "post"
 
 +++
