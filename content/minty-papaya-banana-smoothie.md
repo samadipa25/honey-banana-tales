@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["recipe"]
 date = 2021-01-03T05:00:00Z
 description = "Gut restoring minty papaya banana smoothie"
 image = "/uploads/00100dportrait_00100_burst20200816183443464_cover.jpg"
-tags = []
+tags = ["smoothie", "papaya", "fruit", "healthy", "digestive"]
 title = "Minty papaya banana smoothie"
 type = "post"
 
