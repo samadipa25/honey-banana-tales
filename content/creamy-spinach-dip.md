@@ -2,10 +2,9 @@
 categories = ["recipe"]
 date = 2021-01-03T05:00:00Z
 description = "Creamy spinach parmesan dip"
-draft = true
 image = "/uploads/20201122_200234-0-1.jpg"
 tags = ["dip", "spinach", "parmesan", "pizza"]
-title = "Creamy spinach dip"
+title = "Creamy spinach parmesan dip"
 type = "post"
 
 +++
